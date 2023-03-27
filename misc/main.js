@@ -1,0 +1,1 @@
+let sum = (x) => (y) => (z) => x + y + z; //currying
